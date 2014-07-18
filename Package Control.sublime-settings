@@ -1,0 +1,35 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorSchemeEditor",
+		"ColorSchemeSelector",
+		"EJS",
+		"Git",
+		"Git Config",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"Neon Color Scheme",
+		"nginx",
+		"Origami",
+		"Play 2.0",
+		"Preferences Editor",
+		"Python Improved",
+		"Scalariver",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"SublimeSBT",
+		"Theme - itg.flat",
+		"TrailingSpaces",
+		"Vintage-Origami"
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "extensions":
+    [
+      ".scala",
+      ".sc",
+      ".sbt"
+    ],
+	"tab_size": 2
+}
