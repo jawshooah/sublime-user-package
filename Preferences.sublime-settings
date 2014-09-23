@@ -42,7 +42,7 @@
 	"caret_extra_width": 0,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Neon Color Scheme/Neon.tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/Neon.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -58,6 +58,7 @@
 	"enable_tab_scrolling": true,
 	"enable_telemetry": "auto",
 	"ensure_newline_at_eof_on_save": false,
+	"extract_sublime_package_ask_on_open": true,
 	"fade_fold_buttons": true,
 	"fallback_encoding": "Western (Windows 1252)",
 	"file_exclude_patterns":
@@ -104,14 +105,14 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"PHP",
-		"Scala",
-		"JavaScript",
-		"C++",
-		"Markdown",
-		"Batch File",
 		"Python",
-		"Perl"
+		"Perl",
+		"C++",
+		"Scala",
+		"PHP",
+		"JavaScript",
+		"Batch File",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
@@ -158,7 +159,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 4,
-	"theme": "itg.flat.dark.sublime-theme",
+	"theme": "itg.flat.dark.blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
@@ -167,6 +168,6 @@
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": "auto",
-	"wrap_width": 0
+	"word_wrap": true,
+	"wrap_width": 80
 }

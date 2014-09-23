@@ -2,3 +2,4 @@
 *.cache
 Package\ Control.last-run
 Package Control.system-ca-bundle
+.SublimeREPLHistory/

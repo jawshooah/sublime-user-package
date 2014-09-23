@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		".jsbeautifyrc"
+		".jsbeautifyrc",
+		"jshint.conf",
+		".sublimelinterrc"
 	]
 }

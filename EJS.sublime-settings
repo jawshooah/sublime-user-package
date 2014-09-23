@@ -1,7 +1,7 @@
 {
-    "color_scheme": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmTheme",
-    "extensions":
-    [
-        "ejs"
-    ]
+	"color_scheme": "Packages/User/Color Highlighter/themes/JavaScriptNext (SL).tmTheme",
+	"extensions":
+	[
+		"ejs"
+	]
 }

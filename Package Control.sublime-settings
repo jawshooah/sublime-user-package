@@ -1,14 +1,134 @@
 {
+	"auto_upgrade": true,
+	"auto_upgrade_frequency": 1,
+	"auto_upgrade_ignore":
+	[
+	],
+	"cache_length": 300,
+	"certs":
+	{
+		"api.bitbucket.org":
+		[
+			"7d0986b90061d60c8c02aa3b1cf23850",
+			"https://sublime.wbond.net/certs/7d0986b90061d60c8c02aa3b1cf23850"
+		],
+		"api.github.com":
+		[
+			"7d0986b90061d60c8c02aa3b1cf23850",
+			"https://sublime.wbond.net/certs/7d0986b90061d60c8c02aa3b1cf23850"
+		],
+		"bitbucket.org":
+		[
+			"7d0986b90061d60c8c02aa3b1cf23850",
+			"https://sublime.wbond.net/certs/7d0986b90061d60c8c02aa3b1cf23850"
+		],
+		"codeload.github.com":
+		[
+			"7d0986b90061d60c8c02aa3b1cf23850",
+			"https://sublime.wbond.net/certs/7d0986b90061d60c8c02aa3b1cf23850"
+		],
+		"downloads.sourceforge.net":
+		[
+			"221e907bdfff70d71cea42361ae209d5",
+			"https://sublime.wbond.net/certs/221e907bdfff70d71cea42361ae209d5"
+		],
+		"github.com":
+		[
+			"7d0986b90061d60c8c02aa3b1cf23850",
+			"https://sublime.wbond.net/certs/7d0986b90061d60c8c02aa3b1cf23850"
+		],
+		"nodeload.github.com":
+		[
+			"7d0986b90061d60c8c02aa3b1cf23850",
+			"https://sublime.wbond.net/certs/7d0986b90061d60c8c02aa3b1cf23850"
+		],
+		"raw.github.com":
+		[
+			"7d0986b90061d60c8c02aa3b1cf23850",
+			"https://sublime.wbond.net/certs/7d0986b90061d60c8c02aa3b1cf23850"
+		],
+		"sublime.wbond.net":
+		[
+			"221e907bdfff70d71cea42361ae209d5",
+			"https://sublime.wbond.net/certs/221e907bdfff70d71cea42361ae209d5"
+		]
+	},
+	"channels":
+	[
+		"https://sublime.wbond.net/channel.json"
+	],
+	"debug": false,
+	"dirs_to_ignore":
+	[
+		".hg",
+		".git",
+		".svn",
+		"_darcs",
+		"CVS"
+	],
+	"files_to_ignore":
+	[
+		".hgignore",
+		".gitignore",
+		".bzrignore",
+		"*.pyc",
+		"*.sublime-project",
+		"*.sublime-workspace",
+		"*.tmTheme.cache"
+	],
+	"files_to_ignore_binary":
+	[
+		".hgignore",
+		".gitignore",
+		".bzrignore",
+		"*.py",
+		"*.sublime-project",
+		"*.sublime-workspace",
+		"*.tmTheme.cache"
+	],
+	"files_to_include":
+	[
+	],
+	"files_to_include_binary":
+	[
+		"__init__.py"
+	],
+	"git_binary": "",
+	"git_update_command":
+	[
+		"pull",
+		"--ff",
+		"--commit"
+	],
+	"hg_binary": "",
+	"hg_update_command":
+	[
+		"pull",
+		"--update"
+	],
+	"http_cache": true,
+	"http_cache_length": 604800,
+	"http_proxy": "",
+	"https_proxy": "",
+	"ignore_vcs_packages": false,
+	"install_missing": true,
+	"install_prereleases": false,
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
+		"C# Compile & Run",
+		"C# Snippets",
 		"Color Highlighter",
 		"ColorSchemeEditor",
 		"ColorSchemeSelector",
 		"EJS",
+		"Extract Sublime Package",
 		"Git",
 		"Git Config",
+		"Git Conflict Resolver",
 		"Gitignore",
+		"Groovy Snippets",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
@@ -18,18 +138,42 @@
 		"Play 2.0",
 		"Preferences Editor",
 		"Python Improved",
+		"Robot Framework Assistant",
 		"Scalariver",
 		"SCSS",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
+		"SublimeLinter-jsl",
+		"SublimeLinter-pep257",
+		"SublimeLinter-pep8",
+		"SublimeLinter-php",
 		"SublimeLinter-pylint",
+		"SublimeLinter-shellcheck",
+		"SublimeLinter-xmllint",
 		"SublimeREPL",
 		"SublimeSBT",
 		"Theme - itg.flat",
+		"Theme - Soda",
 		"TrailingSpaces",
 		"Vintage-Origami"
-	]
+	],
+	"openssl_binary": "",
+	"package_destination": "",
+	"package_name_map":
+	{
+	},
+	"proxy_password": "",
+	"proxy_username": "",
+	"repositories":
+	[
+	],
+	"submit_url": "https://sublime.wbond.net/submit",
+	"submit_usage": true,
+	"timeout": 30,
+	"user_agent": "Sublime Package Control v%s"
 }

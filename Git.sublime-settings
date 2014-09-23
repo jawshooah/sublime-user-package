@@ -4,7 +4,7 @@
 
     // if present, use this command instead of plain "git"
     // e.g. "/Users/kemayo/bin/git" or "C:\bin\git.exe"
-    ,"git_command": false
+    ,"git_command": "/usr/local/bin/git"
 
     // point this the installation location of git-flow
     ,"git_flow_command": "/usr/local/bin/git-flow"
@@ -24,7 +24,7 @@
     ,"history_size": 5
 
     // Show git flow commands
-    ,"flow": false
+    ,"flow": true
 
     // Annotations default to being on for all files. Can be slow in some cases.
     ,"annotations": false

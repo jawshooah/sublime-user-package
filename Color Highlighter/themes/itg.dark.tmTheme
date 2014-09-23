@@ -16,15 +16,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_0000000A</string>
+<string>mcol_00FFFFFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#0000000A</string>
+<string>#00FFFFFF</string>
 <key>caret</key>
-<string>#FFFFFFFF</string>
+<string>#FF0000FF</string>
 <key>foreground</key>
-<string>#FFFFFFFF</string>
+<string>#FF0000FF</string>
 </dict>
 </dict>
 
@@ -33,117 +33,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_0000000A</string>
+<string>mcol_0000FFFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#0000000A</string>
+<string>#0000FFFF</string>
 <key>caret</key>
-<string>#FFFFFFFF</string>
+<string>#FFFE00FF</string>
 <key>foreground</key>
-<string>#FFFFFFFF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_00ffffFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#00ffffFF</string>
-<key>caret</key>
-<string>#000000FF</string>
-<key>foreground</key>
-<string>#000000FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_0000ffFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#0000ffFF</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
-<key>foreground</key>
-<string>#FFFFFFFF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_ffff00FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#ffff00FF</string>
-<key>caret</key>
-<string>#000000FF</string>
-<key>foreground</key>
-<string>#000000FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_008000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#008000FF</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
-<key>foreground</key>
-<string>#FFFFFFFF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_ffa500FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#ffa500FF</string>
-<key>caret</key>
-<string>#000000FF</string>
-<key>foreground</key>
-<string>#000000FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_ff0000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#ff0000FF</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
-<key>foreground</key>
-<string>#FFFFFFFF</string>
+<string>#FFFE00FF</string>
 </dict>
 </dict>
 
@@ -237,7 +135,7 @@
 			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
-			<string>constant.character, constant.other, variable.other.constant</string>
+			<string>constant.character, constant.other</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -446,24 +344,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String quoted</string>
-			<key>scope</key>
-			<string>string.quoted.single, string.quoted.double</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f0da5e</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>String.regexp</string>
 			<key>scope</key>
 			<string>string.regexp</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f3a056</string>
+				<string>#F6AA11</string>
 			</dict>
 		</dict>
 		<dict>
@@ -499,39 +386,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#73817D</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby: Variable</string>
-			<key>scope</key>
-			<string>variable.other.readwrite.instance.ruby</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f3a056</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby: Class</string>
-			<key>scope</key>
-			<string>entity.name.type.class.ruby, support.class.ruby</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#a7e450</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rails: ActiveRecord function</string>
-			<key>scope</key>
-			<string>support.function.activerecord.rails, support.function.activesupport.rails</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f35656</string>
 			</dict>
 		</dict>
 		<dict>
@@ -577,25 +431,25 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f3a056</string>
+				<string>#F6AA11</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS/SCSS: id</string>
+			<string>CSS: id</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.id, source.less entity.other.attribute-name.id, source.scss entity.other.attribute-name.id</string>
+			<string>meta.selector.css entity.other.attribute-name.id</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f3a056</string>
+				<string>#F6AA11</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS/SCSS: class</string>
+			<string>CSS: class</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.class, source.less entity.other.attribute-name.class, source.scss entity.other.attribute-name.class</string>
+			<string>meta.selector.css entity.other.attribute-name.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -606,7 +460,7 @@
 			<key>name</key>
 			<string>CSS: property-name</string>
 			<key>scope</key>
-			<string>meta.property-name, support.type.property-name.css</string>
+			<string>support.type.property-name.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -615,35 +469,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS/SCSS: font-name</string>
+			<string>CSS: property-value</string>
 			<key>scope</key>
-			<string>meta.property-value.css support.constant.font-name.css, meta.property-value.scss support.constant.font-name.scss</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f0da5e</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CSS/SCSS: property-value</string>
-			<key>scope</key>
-			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css, meta.property-list.css meta.property-value.css, meta.property-value support.constant.property-value.scss, meta.property-list.scss meta.property-value.scss</string>
+			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#F6F080</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CSS/SCSS: numeric</string>
-			<key>scope</key>
-			<string>meta.property-value.css constant.numeric.css, meta.property-value.scss constant.numeric.scss</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#f35656</string>
 			</dict>
 		</dict>
 		<dict>
@@ -654,7 +486,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f0da5e</string>
+				<string>#EDF080</string>
 			</dict>
 		</dict>
 		<dict>
@@ -665,7 +497,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f3a056</string>
+				<string>#F6AA11</string>
 			</dict>
 		</dict>
 		<dict>

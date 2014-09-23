@@ -1,9 +1,11 @@
 {
-    "extensions":
-    [
-      ".scala",
-      ".sc",
-      ".sbt"
-    ],
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"extensions":
+	[
+		".scala",
+		".sc",
+		".sbt",
+		"sbt"
+	],
 	"tab_size": 2
 }
