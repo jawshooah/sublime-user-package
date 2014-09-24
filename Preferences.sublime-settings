@@ -105,13 +105,13 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Python",
 		"Perl",
 		"C++",
-		"Scala",
 		"PHP",
-		"JavaScript",
+		"Scala",
 		"Batch File",
+		"Python",
+		"JavaScript",
 		"Markdown"
 	],
 	"indent_guide_options":
