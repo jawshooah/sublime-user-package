@@ -139,9 +139,11 @@
 		"Preferences Editor",
 		"Python Improved",
 		"Robot Framework Assistant",
+		"scala.tmbundle",
 		"Scalariver",
 		"SCSS",
 		"SideBarEnhancements",
+		"sublime-languages",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
@@ -156,6 +158,7 @@
 		"SublimeLinter-shellcheck",
 		"SublimeLinter-xmllint",
 		"SublimeREPL",
+		"Sublimerge Pro",
 		"SublimeSBT",
 		"Theme - itg.flat",
 		"Theme - Soda",
@@ -172,6 +175,9 @@
 	"proxy_username": "",
 	"repositories":
 	[
+		"https://github.com/mads379/scala.tmbundle",
+		"https://github.com/facelessuser/sublime-languages",
+		"https://github.com/jawshooah/SublimeLinter-contrib-scalac"
 	],
 	"submit_url": "https://sublime.wbond.net/submit",
 	"submit_usage": true,
