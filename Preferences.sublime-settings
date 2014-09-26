@@ -105,14 +105,14 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"C++",
-		"CSS",
-		"JavaScript",
-		"Markdown",
-		"PHP",
+		"Python",
 		"Batch File",
+		"JavaScript",
+		"C++",
+		"Markdown",
 		"Perl",
-		"Python"
+		"PHP",
+		"CSS"
 	],
 	"indent_guide_options":
 	[
@@ -168,6 +168,6 @@
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": true,
+	"word_wrap": "auto",
 	"wrap_width": 80
 }
