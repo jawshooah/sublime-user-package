@@ -1,4 +1,13 @@
 {
-    "color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-    "tab_size": 2
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+	"extensions":
+	[
+		"sbt"
+	],
+	"rulers":
+	[
+		100
+	],
+	"tab_size": 2,
+	"wrap_width": 100
 }
