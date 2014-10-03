@@ -1,12 +1,17 @@
 {
     "user": {
-        "debug": false,
+        "debug": true,
         "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "coffeelint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "csslint": {
                 "@disable": false,
                 "args": [],
@@ -14,6 +19,17 @@
                 "excludes": [],
                 "ignore": "",
                 "warnings": ""
+            },
+            "flake8": {
+                "@disable": false,
+                "args": [],
+                "builtins": "",
+                "excludes": [],
+                "ignore": "",
+                "jobs": "1",
+                "max-complexity": -1,
+                "max-line-length": null,
+                "select": ""
             },
             "htmltidy": {
                 "@disable": false,
@@ -44,7 +60,6 @@
             "jsl": {
                 "@disable": true,
                 "args": [],
-                "conf": null,
                 "excludes": []
             },
             "pep257": {
@@ -87,9 +102,9 @@
             },
             "scalastyle": {
                 "@disable": false,
-                "jarfile": "/Users/josh/lib/scalastyle-batch/scalastyle-batch_2.10.jar",
                 "args": [],
-                "excludes": []
+                "excludes": [],
+                "jarfile": "/Users/josh/lib/scalastyle-batch/scalastyle-batch_2.10.jar"
             },
             "shellcheck": {
                 "@disable": false,
