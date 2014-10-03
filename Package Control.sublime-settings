@@ -116,9 +116,11 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"C# Compile & Run",
 		"C# Snippets",
+		"CoffeeCompile",
 		"Color Highlighter",
 		"ColorSchemeEditor",
 		"ColorSchemeSelector",
@@ -140,12 +142,14 @@
 		"Robot Framework Assistant",
 		"scala.tmbundle",
 		"Scalariver",
+		"Scalex Documentation Search",
 		"SCSS",
 		"SideBarEnhancements",
 		"sublime-languages",
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
@@ -157,6 +161,7 @@
 		"SublimeLinter-pylint",
 		"SublimeLinter-shellcheck",
 		"SublimeLinter-xmllint",
+		"SublimePackageSync",
 		"SublimeREPL",
 		"Sublimerge Pro",
 		"SublimeSBT",
@@ -177,7 +182,9 @@
 	[
 		"https://github.com/mads379/scala.tmbundle",
 		"https://github.com/facelessuser/sublime-languages",
-		"https://github.com/jawshooah/SublimeLinter-contrib-scalac"
+		"https://github.com/jawshooah/SublimeLinter-contrib-scalac",
+		"https://github.com/Xavura/CoffeeScript-Sublime-Plugin",
+		"https://github.com/jawshooah/SublimeLinter-jsl"
 	],
 	"submit_url": "https://sublime.wbond.net/submit",
 	"submit_usage": true,
