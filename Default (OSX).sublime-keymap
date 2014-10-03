@@ -457,5 +457,22 @@
     {
         "keys": ["super+alt+backspace"],
         "command": "delete_trailing_spaces"
+    },
+
+    /*****************
+     * SublimeScalex *
+     *****************/
+
+     {
+        "keys": ["ctrl+super+alt+f"],
+        "command": "sublime_scalex"
+     },
+     {
+        "keys": ["super+alt+f"],
+        "command": "show_panel",
+        "args": {
+            "panel": "replace",
+            "reverse": false
+        }
     }
 ]
