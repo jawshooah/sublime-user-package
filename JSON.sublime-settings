@@ -3,6 +3,8 @@
 	[
 		".jsbeautifyrc",
 		"jshint.conf",
-		".sublimelinterrc"
+		".sublimelinterrc",
+		".eslintrc",
+		".jshintrc"
 	]
 }
