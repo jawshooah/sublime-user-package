@@ -104,7 +104,7 @@
                 "@disable": false,
                 "args": [],
                 "excludes": [],
-                "jarfile": "/Users/josh/lib/scalastyle-batch/scalastyle-batch_2.10.jar"
+                "jarfile": "$HOME/dev/lib/scalastyle_2.11-0.6.0-batch.jar"
             },
             "shellcheck": {
                 "@disable": false,
