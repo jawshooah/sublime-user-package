@@ -150,6 +150,7 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-scalastyle",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
@@ -183,6 +184,7 @@
 		"https://github.com/mads379/scala.tmbundle",
 		"https://github.com/facelessuser/sublime-languages",
 		"https://github.com/jawshooah/SublimeLinter-contrib-scalac",
+		"https://github.com/jawshooah/SublimeLinter-contrib-scalastyle",
 		"https://github.com/Xavura/CoffeeScript-Sublime-Plugin",
 		"https://github.com/jawshooah/SublimeLinter-jsl"
 	],
