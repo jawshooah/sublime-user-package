@@ -97,7 +97,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": false,
@@ -105,14 +105,14 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Python",
-		"Batch File",
+		"CSS",
 		"JavaScript",
 		"C++",
+		"PHP",
+		"Batch File",
 		"Markdown",
 		"Perl",
-		"PHP",
-		"CSS"
+		"Python"
 	],
 	"indent_guide_options":
 	[
