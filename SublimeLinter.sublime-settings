@@ -101,7 +101,7 @@
                 "lint": ""
             },
             "scalastyle": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": [],
                 "jarfile": "$HOME/dev/lib/scalastyle_2.11-0.6.0-batch.jar"
