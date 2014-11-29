@@ -42,7 +42,7 @@
 	"caret_extra_width": 0,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Color Highlighter/themes/Neon.tmTheme",
+	"color_scheme": "Packages/Neon Color Scheme/Neon.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -106,13 +106,13 @@
 	"ignored_packages":
 	[
 		"CSS",
-		"JavaScript",
+		"Markdown",
+		"Batch File",
+		"Python",
+		"Perl",
 		"C++",
 		"PHP",
-		"Batch File",
-		"Markdown",
-		"Perl",
-		"Python"
+		"JavaScript"
 	],
 	"indent_guide_options":
 	[

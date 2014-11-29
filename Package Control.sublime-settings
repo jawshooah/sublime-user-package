@@ -115,6 +115,7 @@
 	"install_prereleases": false,
 	"installed_packages":
 	[
+		"AAAPackageDev",
 		"ApacheConf.tmLanguage",
 		"Better CoffeeScript",
 		"BracketHighlighter",
@@ -168,6 +169,7 @@
 		"SublimeSBT",
 		"Theme - itg.flat",
 		"Theme - Soda",
+		"Tomorrow Color Schemes",
 		"TrailingSpaces",
 		"VimL",
 		"Vintage-Origami"

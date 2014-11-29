@@ -5,6 +5,7 @@
 		"jshint.conf",
 		".sublimelinterrc",
 		".eslintrc",
-		".jshintrc"
+		".jshintrc",
+		"JSON-tmTheme"
 	]
 }

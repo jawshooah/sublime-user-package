@@ -6,40 +6,6 @@
 	<string>Monokai</string>
 	<key>settings</key>
 	<array>
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_00FFFFFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#00FFFFFF</string>
-<key>caret</key>
-<string>#FF0000FF</string>
-<key>foreground</key>
-<string>#FF0000FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_0000FFFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#0000FFFF</string>
-<key>caret</key>
-<string>#FFFE00FF</string>
-<key>foreground</key>
-<string>#FFFE00FF</string>
-</dict>
-</dict>
-
-
 		<dict>
 			<key>settings</key>
 			<dict>
@@ -426,16 +392,6 @@
 
 	<dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#D02000</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
             <string>sublimelinter.mark.warning</string>
@@ -453,6 +409,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D02000</string>
             </dict>
         </dict></array>
 	<key>uuid</key>
