@@ -111,8 +111,16 @@
 	"http_proxy": "",
 	"https_proxy": "",
 	"ignore_vcs_packages": false,
+	"in_process_packages":
+	[
+	],
 	"install_missing": true,
 	"install_prereleases": false,
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AAAPackageDev",
