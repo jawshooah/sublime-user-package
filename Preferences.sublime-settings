@@ -143,7 +143,7 @@
 	"remember_open_files": true,
 	"rulers":
 	[
-		80
+		80, 120
 	],
 	"save_on_focus_lost": false,
 	"scala_worksheet_sync_views": true,
@@ -169,5 +169,5 @@
 	"vintage_start_in_command_mode": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": false,
-	"wrap_width": 80
+	"wrap_width": 120
 }
