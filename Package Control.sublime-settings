@@ -166,6 +166,8 @@
 		"SublimeLinter-pep8",
 		"SublimeLinter-php",
 		"SublimeLinter-pylint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
 		"SublimeLinter-shellcheck",
 		"SublimeLinter-xmllint",
 		"SublimePackageSync",

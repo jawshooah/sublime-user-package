@@ -93,6 +93,16 @@
                 "rcfile": "",
                 "show-codes": false
             },
+            "rubocop": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "ruby": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "scalac": {
                 "@disable": true,
                 "args": [],
