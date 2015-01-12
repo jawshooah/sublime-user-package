@@ -105,14 +105,14 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Perl",
-		"Markdown",
-		"Python",
-		"CSS",
+		"Batch File",
 		"JavaScript",
 		"C++",
+		"Perl",
+		"Markdown",
 		"PHP",
-		"Batch File"
+		"Python",
+		"CSS"
 	],
 	"indent_guide_options":
 	[
@@ -143,7 +143,8 @@
 	"remember_open_files": true,
 	"rulers":
 	[
-		80, 120
+		80,
+		120
 	],
 	"save_on_focus_lost": false,
 	"scala_worksheet_sync_views": true,
