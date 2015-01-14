@@ -134,6 +134,7 @@
 		"ColorSchemeEditor",
 		"ColorSchemeSelector",
 		"Coq",
+		"EditorConfig",
 		"EJS",
 		"Extract Sublime Package",
 		"Fix Mac Path",
