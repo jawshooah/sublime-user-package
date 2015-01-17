@@ -1,4 +1,6 @@
 {
+  "rulers": [80],
+  "wrap_width": 80,
 	"extensions":
 	[
 		"js"
