@@ -474,5 +474,14 @@
             "panel": "replace",
             "reverse": false
         }
+    },
+
+    /***********
+     * FixMyJs *
+     ***********/
+
+    {
+        "keys": ["alt+super+j"],
+        "command": "fix"
     }
 ]
