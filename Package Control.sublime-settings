@@ -124,6 +124,7 @@
 	"installed_packages":
 	[
 		"AAAPackageDev",
+		"Alignment",
 		"ApacheConf.tmLanguage",
 		"Better CoffeeScript",
 		"BracketHighlighter",
