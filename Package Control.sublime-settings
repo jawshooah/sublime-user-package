@@ -178,6 +178,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsl",
+		"SublimeLinter-json",
 		"SublimeLinter-pep257",
 		"SublimeLinter-pep8",
 		"SublimeLinter-php",
