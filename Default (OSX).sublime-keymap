@@ -483,5 +483,13 @@
     {
         "keys": ["alt+super+j"],
         "command": "fix"
+    },
+
+    /*************
+     * Alignment *
+     *************/
+    {
+        "keys": ["alt+super+a"],
+        "command": "alignment"
     }
 ]
