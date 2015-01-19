@@ -463,11 +463,11 @@
      * SublimeScalex *
      *****************/
 
-     {
+    {
         "keys": ["ctrl+super+alt+f"],
         "command": "sublime_scalex"
-     },
-     {
+    },
+    {
         "keys": ["super+alt+f"],
         "command": "show_panel",
         "args": {
