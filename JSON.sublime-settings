@@ -6,6 +6,9 @@
 		".sublimelinterrc",
 		".eslintrc",
 		".jshintrc",
-		"JSON-tmTheme"
+		"JSON-tmTheme",
+		".bowerrc",
+		"sublime-settings",
+		".csslintrc"
 	]
 }
