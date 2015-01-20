@@ -105,14 +105,14 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Batch File",
-		"JavaScript",
 		"C++",
-		"Perl",
-		"Markdown",
-		"PHP",
 		"Python",
-		"CSS"
+		"PHP",
+		"CSS",
+		"Markdown",
+		"JavaScript",
+		"Perl",
+		"Batch File"
 	],
 	"indent_guide_options":
 	[
