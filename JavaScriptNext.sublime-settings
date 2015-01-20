@@ -1,8 +1,12 @@
 {
-  "rulers": [80],
-  "wrap_width": 80,
+	"color_scheme": "Packages/User/Color Highlighter/themes/JavaScriptNext.tmTheme",
 	"extensions":
 	[
 		"js"
-	]
+	],
+	"rulers":
+	[
+		80
+	],
+	"wrap_width": 80
 }
