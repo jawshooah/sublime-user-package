@@ -1,7 +1,6 @@
-*.cache/
 *.cache
-Package\ Control.last-run
-Package Control.*-ca-bundle
-.SublimeREPLHistory/
-Color\ Highlighter/
+*.last-run
+*-ca-bundle
+.SublimeREPLHistory
+Color Highlighter
 *(SL).tmTheme
