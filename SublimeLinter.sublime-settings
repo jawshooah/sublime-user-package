@@ -122,8 +122,9 @@
             "scalastyle": {
                 "@disable": false,
                 "args": [],
+                "config": "",
                 "excludes": [],
-                "jarfile": "/usr/local/opt/scalastyle/libexec/scalastyle_2.10-0.6.0-batch.jar"
+                "jar_file": "/usr/local/opt/scalastyle/libexec/scalastyle_2.10-0.6.0-batch.jar"
             },
             "shellcheck": {
                 "@disable": false,
