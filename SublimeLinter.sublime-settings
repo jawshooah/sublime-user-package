@@ -114,7 +114,8 @@
             "scalac": {
                 "@disable": true,
                 "args": [],
-                "classpath": [],
+                "classpath": "",
+                "classpath_filename": "",
                 "excludes": [],
                 "lint": ""
             },
