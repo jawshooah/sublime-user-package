@@ -79,14 +79,6 @@
                 "excludes": [],
                 "ignore": ""
             },
-            "pep8": {
-                "@disable": false,
-                "args": [],
-                "excludes": [],
-                "ignore": "",
-                "max-line-length": null,
-                "select": ""
-            },
             "php": {
                 "@disable": true,
                 "args": [],
