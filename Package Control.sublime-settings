@@ -184,7 +184,6 @@
 		"SublimeLinter-json",
 		"SublimeLinter-pep257",
 		"SublimeLinter-php",
-		"SublimeLinter-pylint",
 		"SublimeLinter-ruby",
 		"SublimeLinter-shellcheck",
 		"SublimeLinter-xmllint",

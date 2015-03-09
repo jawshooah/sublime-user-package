@@ -84,18 +84,6 @@
                 "args": [],
                 "excludes": []
             },
-            "pylint": {
-                "@disable": true,
-                "args": [],
-                "disable": "",
-                "enable": "",
-                "excludes": [
-                    "*.conf"
-                ],
-                "paths": [],
-                "rcfile": "",
-                "show-codes": false
-            },
             "rubocop": {
                 "@disable": false,
                 "args": [],
