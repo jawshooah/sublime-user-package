@@ -95,7 +95,7 @@
                 "excludes": []
             },
             "rubylint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
