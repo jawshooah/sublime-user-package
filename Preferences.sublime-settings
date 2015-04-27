@@ -153,7 +153,7 @@
 	"shift_tab_unindent": true,
 	"show_encoding": false,
 	"show_full_path": true,
-	"show_line_endings": false,
+	"show_line_endings": true,
 	"show_panel_on_build": true,
 	"show_tab_close_buttons": true,
 	"smart_indent": true,
