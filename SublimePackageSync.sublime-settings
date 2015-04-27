@@ -7,12 +7,6 @@
             },
             // This can be any git object usable as an argument to git checkout.
             "object_to_checkout": "origin/master"
-        },
-        "SublimeLinter-jsl": {
-            "remotes": {
-                "origin": "git@github.com:jawshooah/SublimeLinter-jsl.git"
-            },
-            "object_to_checkout": "origin/add-config-file"
         }
     },
 
