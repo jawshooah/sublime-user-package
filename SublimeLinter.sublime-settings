@@ -104,14 +104,18 @@
                 "args": [],
                 "classpath": "",
                 "classpath_filename": "",
-                "excludes": [],
+                "excludes": [
+                    "*.sbt"
+                ],
                 "lint": ""
             },
             "scalastyle": {
                 "@disable": false,
                 "args": [],
                 "config": "",
-                "excludes": [],
+                "excludes": [
+                    "*.sbt"
+                ],
                 "jar_file": "/usr/local/opt/scalastyle/libexec/scalastyle_2.10-0.6.0-batch.jar"
             },
             "scss": {
@@ -125,6 +129,11 @@
                 "@disable": false,
                 "args": [],
                 "exclude": "",
+                "excludes": []
+            },
+            "writegood": {
+                "@disable": true,
+                "args": [],
                 "excludes": []
             },
             "xmllint": {
