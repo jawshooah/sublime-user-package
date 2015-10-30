@@ -1,12 +1,7 @@
 {
-	"color_scheme": "Packages/User/Color Highlighter/themes/Next.tmTheme",
+	"color_scheme": "Packages/Decent Color Scheme/Samuel's decent.tmTheme",
 	"extensions":
 	[
 		"js"
-	],
-	"rulers":
-	[
-		80
-	],
-	"wrap_width": 80
+	]
 }
