@@ -105,14 +105,20 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
+		"AppleScript Extensions",
+		"Batch File",
+		"BracketHighlighter",
 		"C++",
-		"Python",
-		"PHP",
 		"CSS",
-		"Markdown",
+		"GithubEmoji",
 		"JavaScript",
+		"Markdown",
+		"MarkdownEditing",
+		"nginx",
 		"Perl",
-		"Batch File"
+		"PHP",
+		"Python",
+		"SublimeGit"
 	],
 	"indent_guide_options":
 	[
@@ -143,8 +149,7 @@
 	"remember_open_files": true,
 	"rulers":
 	[
-		80,
-		120
+		100
 	],
 	"save_on_focus_lost": false,
 	"scala_worksheet_sync_views": true,
@@ -170,5 +175,5 @@
 	"vintage_start_in_command_mode": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": false,
-	"wrap_width": 80
+	"wrap_width": 100
 }

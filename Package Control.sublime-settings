@@ -4,6 +4,7 @@
 	"auto_upgrade_ignore":
 	[
 	],
+	"bootstrapped": true,
 	"cache_length": 300,
 	"certs":
 	{
@@ -110,7 +111,7 @@
 	"http_cache_length": 604800,
 	"http_proxy": "",
 	"https_proxy": "",
-	"ignore_vcs_packages": false,
+	"ignore_vcs_packages": true,
 	"in_process_packages":
 	[
 	],
@@ -118,7 +119,6 @@
 	"install_prereleases": false,
 	"installed_packages":
 	[
-		"AAAPackageDev",
 		"Alignment",
 		"ApacheConf.tmLanguage",
 		"AppleScript Extensions",
@@ -139,9 +139,13 @@
 		"Extract Sublime Package",
 		"Fix Mac Path",
 		"FixMyJS",
+		"Git Commit Message Syntax",
 		"Git Config",
 		"Git Conflict Resolver",
+		"GitHub Markdown Snippets",
+		"GithubEmoji",
 		"Gitignore",
+		"GitSyntaxes",
 		"GoldenRatio",
 		"Gradle_Language",
 		"Groovy Snippets",
@@ -149,15 +153,18 @@
 		"Grunt Snippets",
 		"HOCON Syntax Highlighting",
 		"Homebrew-formula-syntax",
+		"HTML Mustache",
 		"Indent XML",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"LESS",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"nginx",
 		"Origami",
 		"Package Control",
 		"Package Reloader",
+		"PackageDev",
 		"Play 2.0",
 		"PowerShell",
 		"Preferences Editor",
@@ -168,8 +175,11 @@
 		"Scalex Documentation Search",
 		"Search in Project",
 		"SideBarEnhancements",
+		"sublime-github",
 		"sublime-languages",
 		"SublimeGit",
+		"SublimeLinter-contrib-scalastyle",
+		"SublimeLinter-contrib-tslint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
@@ -180,11 +190,11 @@
 		"SublimeLog",
 		"SublimePackageSync",
 		"SublimeREPL",
-		"Sublimerge Pro",
 		"SublimeSBT",
 		"Theme - Brogrammer",
 		"Tomorrow Color Schemes",
 		"TrailingSpaces",
+		"TypeScript",
 		"VimL",
 		"Vintage-Origami",
 		"Wrap Plus"
@@ -199,9 +209,7 @@
 	"repositories":
 	[
 		"https://github.com/mads379/scala.tmbundle",
-		"https://github.com/facelessuser/sublime-languages",
-		"https://github.com/Xavura/CoffeeScript-Sublime-Plugin",
-		"https://github.com/jawshooah/SublimeLinter-jsl"
+		"https://github.com/facelessuser/sublime-languages"
 	],
 	"submit_url": "https://sublime.wbond.net/submit",
 	"submit_usage": true,

@@ -15,6 +15,11 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "erlint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "flake8": {
                 "@disable": false,
                 "args": [],
@@ -40,22 +45,23 @@
             },
             "pep257": {
                 "@disable": false,
+                "add-ignore": "",
                 "args": [],
                 "excludes": [],
                 "ignore": ""
             },
             "rubocop": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
             "ruby": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
             "scalastyle": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "config": "",
                 "excludes": [
@@ -65,7 +71,9 @@
             },
             "shellcheck": {
                 "@disable": false,
-                "args": [],
+                "args": [
+                    "-x"
+                ],
                 "exclude": "",
                 "excludes": []
             },
@@ -80,7 +88,12 @@
         "passive_warnings": false,
         "paths": {
             "linux": [],
-            "osx": [],
+            "osx": [
+                "${home}/bin",
+                "${home}/.nodenv/shims",
+                "${home}/.pyenv/shims",
+                "${home}/.rbenv/shims"
+            ],
             "windows": []
         },
         "python_paths": {
@@ -99,7 +112,8 @@
             "javascriptnext": "javascript",
             "php": "html",
             "python django": "python",
-            "pythonimproved": "python"
+            "pythonimproved": "python",
+            "sublime settings": "json"
         },
         "warning_color": "DDB700",
         "wrap_find": true

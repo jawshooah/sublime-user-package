@@ -1,0 +1,7 @@
+{
+  "extensions":
+  [
+    "COMMIT_EDITMSG",
+    "PULLREQ_EDITMSG"
+  ]
+}
