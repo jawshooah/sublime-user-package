@@ -1,3 +1,7 @@
 {
+	"extensions":
+	[
+		"map"
+	],
 	"tab_size": 2
 }

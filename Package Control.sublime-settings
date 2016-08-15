@@ -185,7 +185,7 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-pep257",
+		"SublimeLinter-pydocstyle",
 		"SublimeLinter-shellcheck",
 		"SublimeLinter-xmllint",
 		"SublimeLog",

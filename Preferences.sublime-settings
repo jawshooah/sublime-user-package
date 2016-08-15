@@ -110,15 +110,13 @@
 		"BracketHighlighter",
 		"C++",
 		"CSS",
-		"GithubEmoji",
 		"JavaScript",
 		"Markdown",
-		"MarkdownEditing",
 		"nginx",
 		"Perl",
 		"PHP",
 		"Python",
-		"SublimeGit"
+		"sublime-languages"
 	],
 	"indent_guide_options":
 	[

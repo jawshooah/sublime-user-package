@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"COMMIT_EDITMSG"
+		"corr01",
+		"nc"
 	]
 }
