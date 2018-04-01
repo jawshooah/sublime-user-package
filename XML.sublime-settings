@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"corr01",
-		"nc"
+		"nc",
+		"corr02"
 	]
 }

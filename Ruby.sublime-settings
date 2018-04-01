@@ -1,7 +1,8 @@
 {
 	"extensions":
 	[
-		"map"
+		"map",
+		".simplecov"
 	],
 	"tab_size": 2
 }

@@ -82,7 +82,10 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+		"*.ipr",
+		"*.iml",
+		"*.iws"
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
@@ -105,18 +108,15 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"AppleScript Extensions",
-		"Batch File",
-		"BracketHighlighter",
 		"C++",
 		"CSS",
+		"Indent XML",
 		"JavaScript",
+		"JsFormat",
 		"Markdown",
 		"nginx",
-		"Perl",
 		"PHP",
-		"Python",
-		"sublime-languages"
+		"Python"
 	],
 	"indent_guide_options":
 	[
@@ -147,7 +147,7 @@
 	"remember_open_files": true,
 	"rulers":
 	[
-		100
+		80
 	],
 	"save_on_focus_lost": false,
 	"scala_worksheet_sync_views": true,
@@ -167,11 +167,11 @@
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"use_simple_full_screen": false,
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": false,
-	"wrap_width": 100
+	"wrap_width": 80
 }

@@ -1,4 +1,12 @@
 {
-  "wrap_width": 80,
-  "rulers": [80, 120]
+	"extensions":
+	[
+		".envrc"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"wrap_width": 80
 }
